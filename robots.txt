@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /cgi-bin
+sitemap: https://v2-debank.github.io/sitemap.xml
+
+
